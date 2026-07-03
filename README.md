@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Eraldo Junior
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack / Designer`**
 
 Me chamo Eraldo Junior, tenho 29 anos e sou natural de São Luís, Maranhão. Sou formado em Comunicação Social – Publicidade e Propaganda e atualmente estou cursando a formação Full Stack pela Rocketseat. Sou apaixonado por tecnologia e compartilho minhas experiências e aprendizados por meio do meu canal no YouTube, "[Labophase](https://www.youtube.com/@labophase-01)", onde produzo conteúdos sobre programação, desenvolvimento de software, tecnologia e projetos práticos.
 
@@ -117,18 +117,17 @@ Me chamo Eraldo Junior, tenho 29 anos e sou natural de São Luís, Maranhão. So
 <br/>
 
 ### 📊 Estatísticas
-<img 
-    align="left" 
-    alt="GitHub stats"
-    heigth="200px"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EraldoJuni0r&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
 
-<img 
-    align="left" 
-    alt="GitHub stats"
-    heigth="200px"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EraldoJuni0r&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
+
+<div align="left">
+  <img 
+  height="165" 
+  src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=EraldoJuni0r&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img 
+  height="165" 
+  src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=EraldoJuni0r&layout=compact&theme=radical&count_private=true">
+  <img 
+  align="left" 
+  alt="" 
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical"/>
+</div>
