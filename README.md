@@ -120,14 +120,13 @@ Me chamo Eraldo Junior, tenho 29 anos e sou natural de São Luís, Maranhão. So
 
 
 <div align="left">
-  <img 
-  height="165" 
+  <img  
+  height="165px" 
+  style="padding-right: 10px;" 
   src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=EraldoJuni0r&rank_icon=github&show_icons=true&theme=radical&count_private=true">
   <img 
-  height="165" 
+  height="165px"
+  width="360px" 
   src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=EraldoJuni0r&layout=compact&theme=radical&count_private=true">
-  <img 
-  align="left" 
-  alt="" 
-  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical"/>
+  
 </div>
