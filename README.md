@@ -66,25 +66,26 @@ Me chamo Eraldo Junior, tenho 29 anos e sou natural de São Luís, Maranhão. So
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Photoshop"
+    title="Photoshop"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"         
+/>
+
 
 <img
     align="left" 
-    alt="TypeScript"
-    title="TypeScript"
+    alt="After Effects"
+    title="After Effects"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"
 />
 
-<img
-    align="left" 
-    alt="REACT"
-    title="REACT"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-    
+
 <img 
     align="left" 
     alt="PYTHON"
@@ -93,7 +94,6 @@ Me chamo Eraldo Junior, tenho 29 anos e sou natural de São Luís, Maranhão. So
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
-
 
 <img 
     align="left" 
@@ -104,14 +104,6 @@ Me chamo Eraldo Junior, tenho 29 anos e sou natural de São Luís, Maranhão. So
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
-<img 
-    align="left" 
-    alt="NodeJS"
-    title="NodeJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
 
 <br/>
 <br/>
